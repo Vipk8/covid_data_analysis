@@ -1,7 +1,6 @@
 # covid_data_analysis
 
 ![GettyImages-1210455332](https://github.com/user-attachments/assets/041e01f3-92b9-4a73-afac-8878d49e5ee2)
-
 The analysis of the COVID-19 dataset provides valuable insights into the pandemic's impact across different regions and time periods. Key findings from the analysis include:
 
 1. Regional Variations in Impact: The dataset highlights significant differences in the spread and control of COVID-19 across states and regions. Some areas experienced severe outbreaks with higher peaks in active cases, while others maintained relatively lower case numbers, reflecting varying effectiveness in management and control measures.
